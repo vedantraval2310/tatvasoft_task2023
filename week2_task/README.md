@@ -6,6 +6,10 @@
 - [Mitali Kotecha](https://github.com/mitali242)
 - [Simran Bhat](https://github.com/bhatsimran)
 
+## Overall tasks Screenrecording 
+
+https://user-images.githubusercontent.com/76436755/222518129-02a45f48-d137-4e04-a289-4abf0aea723b.mp4
+
 ## Individual tasks screenshots
 
 week2 day 6
