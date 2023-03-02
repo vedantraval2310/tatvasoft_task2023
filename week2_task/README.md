@@ -6,6 +6,8 @@
 - [Mitali Kotecha](https://github.com/mitali242)
 - [Simran Bhat](https://github.com/bhatsimran)
 
+## Individual tasks screenshots
+
 week2 day 6
 ![Screenshot (396)](https://user-images.githubusercontent.com/76436755/222515383-d5af3072-6386-4c2b-bc5a-d2513d943fb2.png)
 
