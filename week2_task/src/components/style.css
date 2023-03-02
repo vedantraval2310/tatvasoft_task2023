@@ -1,0 +1,13 @@
+.title {
+    color: palevioletred;
+    font-size: 32px;
+}
+.description{
+    color: orange;
+    font-size: 32px;
+}
+.login{
+    background-color: aqua;
+    width: 500px;
+    height: 200px;
+}
